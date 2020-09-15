@@ -36,8 +36,8 @@
   
   <distributionManagement>
          <repository>
-            <id>pro-1</id>
-            <name>pro-1</name>
+            <id>vamsibyramala</id>
+            <name>repo-1</name>
             <url>https://github.com/vamsibyramla/repo-1/</url>
         </repository>
    </distributionManagement> 	   
